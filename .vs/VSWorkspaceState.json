@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\APM"
+    "\\APM",
+    "\\APM\\src",
+    "\\APM\\src\\api",
+    "\\APM\\src\\api\\products",
+    "\\APM\\src\\app",
+    "\\APM\\src\\app\\products",
+    "\\APM\\src\\app\\shared"
   ],
+  "SelectedNode": "\\APM\\src\\environments",
   "PreviewInSolutionExplorer": false
 }
